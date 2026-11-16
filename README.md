@@ -1,4 +1,4 @@
-# Practice Program 5 – Demonstrating CI Integration by Running Jenkins in a Docker Container
+# Demonstrating CI Integration by Running Jenkins in a Docker Container
 
 ## Aim
 
